@@ -73,27 +73,27 @@ Squidy is built with [Google Apps Script](https://developers.google.com/apps-scr
 ### :eyes: Demo
 
 Once Squidy is installed as a Google Calendar add-on, you will see the logo on the GSuite sidebar.
-<img src="images/squidy_landing_card.png" alt="Squidy landing card" width="80" height="80">
+<img src="images/squidy_landing_card.png" alt="Squidy landing card">
 
 <br/>
 
 When you click on an event, the Squidy card will update to allow you to take notes. You can either save the notes, or create an email to take you to the next card.
-<img src="images/squidy_note_card.png" alt="Squidy note taking card" width="80" height="80">
+<img src="images/squidy_note_card.png" alt="Squidy note taking card">
 
 <br/>
 
 On Squidy's email card, you'll notice that the notes carry over to the email content. You can adjust the _Email Content_ (this will not change your notes on the previous card). You can also update the _Subject_ and _Recipients_ which defaults to the event attendees. When you're ready, you can either send the email directly from Squidy's interface, or send a draft to your email for later sending.
-<img src="images/squidy_email_card.png" alt="Squidy email card" width="80" height="80">
+<img src="images/squidy_email_card.png" alt="Squidy email card">
 
 <br/>
 
 Example of email sent:
-<img src="images/squidy_email_sent.png" alt="Squidy email card" width="80" height="80">
+<img src="images/squidy_email_sent.png" alt="Squidy email card" >
 
 <br/>
 
 Example of email draft:
-<img src="images/squidy_email_draft.png" alt="Squidy email card" width="80" height="80">
+<img src="images/squidy_email_draft.png" alt="Squidy email card">
 
 <br/><hr/><br/>
 
