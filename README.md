@@ -87,12 +87,12 @@ On Squidy's email card, you'll notice that the notes carry over to the email con
 
 <br/>
 
-Example of email sent:
+<p>Example of email sent:</p>
 <img src="images/squidy_email_sent.png" alt="Squidy email card" >
 
 <br/>
 
-Example of email draft:
+<p>Example of email draft:</p>
 <img src="images/squidy_email_draft.png" alt="Squidy email card">
 
 <br/><hr/><br/>
