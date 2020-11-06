@@ -133,7 +133,7 @@ Great! Now that you've set up your own version of Squidy, you're ready to deploy
 
 ## :traffic_light: Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/duchess-toffee/squidy/issues) for a list of proposed features (and known issues).
 
 <br/><hr/><br/>
 
