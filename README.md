@@ -153,10 +153,9 @@ Contributions are what make the open source community such an amazing place to b
 
 ## :phone: Contact
 
-:mega: [@duchess_toffee](https://twitter.com/duchess_toffee)
-:mailbox: hchai1991@gmail.com
-
-:octocat: [Squidy Github Repo](https://github.com/duchess-toffee/squidy)
+- :mega: [@duchess_toffee](https://twitter.com/duchess_toffee)
+- :mailbox: hchai1991@gmail.com
+- :octocat: [Squidy Github Repo](https://github.com/duchess-toffee/squidy)
 
 <br/><hr/><br/>
 
