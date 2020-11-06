@@ -66,6 +66,8 @@ With Squidy, you can:
 
 Squidy is built with [Google Apps Script](https://developers.google.com/apps-script). With Apps Script, it uses the [Calendar Service](https://developers.google.com/apps-script/reference/calendar) to request permissions to modify the user's Google Calendar to include Squidy.
 
+All images are courtesy of [undraw](https://undraw.co/illustrations)
+
 <br/>
 
 <!-- USAGE EXAMPLES -->
@@ -165,3 +167,4 @@ Contributions are what make the open source community such an amazing place to b
 
 - [Google Apps Script](https://developers.google.com/apps-script)
 - [Google Calendar Service](https://developers.google.com/apps-script/reference/calendar)
+- [undraw](https://undraw.co/illustrations)
