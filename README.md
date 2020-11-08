@@ -11,7 +11,7 @@
     A Google Calendar add-on that allows you to record personal meeting notes!
     <br />
     <br />
-    <a href="#demo">View Demo</a>
+    <a href="#eyes-demo">View Demo</a>
     ·
     <a href="https://github.com/duchess-toffee/squidy/issues">Report Bug</a>
     ·
@@ -66,7 +66,7 @@ With Squidy, you can:
 
 Squidy is built with [Google Apps Script](https://developers.google.com/apps-script). With Apps Script, it uses the [Calendar Service](https://developers.google.com/apps-script/reference/calendar) to request permissions to modify the user's Google Calendar to include Squidy.
 
-All images are courtesy of [undraw](https://undraw.co/illustrations)
+All images are courtesy of [undraw](https://undraw.co/illustrations).
 
 <br/>
 
@@ -103,7 +103,7 @@ On Squidy's email card, you'll notice that the notes carry over to the email con
 
 ## :rocket: Getting Started
 
-Squidy is not officially published in the Google Add-on Marketplace. However you too can use Squidy using steps outlined below.
+Squidy is not officially published in the [Google Workspace Marketplace](https://gsuite.google.com/marketplace). However you too can use Squidy using steps outlined below.
 
 <br/>
 
